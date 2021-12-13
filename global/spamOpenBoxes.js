@@ -147,8 +147,8 @@ const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
                 totalValue += (blookValues[blook]) * quant;
             };
             
-            alert('Value of Blooks Unlocked: ' + totalValue);
-        });
+            alert('Value of Blooks Unlocked: ' otalValue += (blookValues[blook]) * quant;
+            };
     });
 
 })([((text) => text.charAt(0).toUpperCase() + text.slice(1))(prompt('What box do you want to open? (e.g. "Space") The limited boxes will not open if they are not available')), Number(prompt('How many boxes do you want to open?'))])
